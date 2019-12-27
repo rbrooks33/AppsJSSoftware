@@ -3,3 +3,8 @@
 ################################################################################
 
 /AppsJSSoftware/.vs/AppsJSSoftware
+/AppsJSSoftware/bin
+/AppsJSSoftware/obj/Debug
+/AppsJSSoftware/packages
+/AppsJSSoftware/Properties
+/AppsJSSoftware/Scripts/Apps/_AppsIgnore
